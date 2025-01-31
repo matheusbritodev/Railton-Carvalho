@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton-Carvalho&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton-Carvalho&layout=compact&langs_count=7&theme=dracula&count_private=true&show_icons=true"/>
 </div>
 ## Use To Code
 
