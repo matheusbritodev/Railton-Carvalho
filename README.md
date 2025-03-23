@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Railton-Carvalho&layout=compact&langs_count=7&theme=dracula&count_private=true&show_icons=true"/>
 </div>
 
-### Use to code
+## Use to code
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br/>
-#### Workstation Tools:
+### Workstation Tools:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br/>
